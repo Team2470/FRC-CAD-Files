@@ -10,6 +10,6 @@ Many of these were made during our [2018 FRC Season](https://github.com/Team2470
 
 * [License](https://github.com/Team2470/FRC-CAD-Files/blob/master/LICENSE)
 * [Contribution Guidelines](https://github.com/Team2470/FRC-CAD-Files/blob/master/CONTRIBUTING.md)
-* [Issue Templates](https://github.com/Team2470/FRC-2019/tree/master/.github/ISSUE_TEMPLATE)
-  - [File Issue](https://github.com/Team2470/FRC-2019/blob/master/.github/ISSUE_TEMPLATE/file_issue.md)
-  - [Cleanup Request](https://github.com/Team2470/FRC-2019/blob/master/.github/ISSUE_TEMPLATE/cleanup_request.md)
+* [Issue Templates](https://github.com/Team2470/FRC-CAD-Files/tree/master/.github/ISSUE_TEMPLATE)
+  - [File Issue](https://github.com/Team2470/FRC-CAD-Files/blob/master/.github/ISSUE_TEMPLATE/file_issue.md)
+  - [Cleanup Request](https://github.com/Team2470/FRC-CAD-Files/blob/master/.github/ISSUE_TEMPLATE/cleanup_request.md)
